@@ -99,7 +99,7 @@ void fechar_conta() {
 int main() {
     int opcao;
     do {
-        printf("\n========= Menu =========\n");
+        printf("\n--------- Menu ---------\n");
         printf("1. Criar Conta\n");
         printf("2. Depositar\n");
         printf("3. Sacar\n");
